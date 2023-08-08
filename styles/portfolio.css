@@ -150,3 +150,25 @@ main {
   margin-top: 50px;
   text-align: center;
 }
+/* contact styles */
+
+.contact-us {
+  display: flex;
+  gap: 100px;
+  background-color: #fff8f3;
+  padding: 130px 200px;
+}
+.section-title-end {
+  text-align: left;
+}
+.contact-us input[type="text"],
+input[type="email"],
+textarea {
+  margin-bottom: 24px;
+  border: 0;
+  width: 100%;
+  padding: 18px 30px;
+}
+.contact-us a {
+  text-decoration: none;
+}
